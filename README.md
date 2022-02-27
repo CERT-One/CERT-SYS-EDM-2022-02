@@ -10,7 +10,7 @@ Traffic analysis :
 Indicators of Compromise (IOC)
 ------------------------------
 
-* SOC Radar IOCs (https://socradar.io/what-you-need-to-know-about-russian-cyber-escalation-in-ukraine/)
+* SOC Radar IOCs(https://socradar.io/what-you-need-to-know-about-russian-cyber-escalation-in-ukraine/)
 * Alienvault Russia IOCs : https://otx.alienvault.com/browse/global/pulses?q=Russia&include_inactive=0&sort=-modified&page=1&indicatorsSearch=Russia
 * 
 
