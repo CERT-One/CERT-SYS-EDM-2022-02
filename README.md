@@ -19,7 +19,7 @@ Traffic analysis
        * See repository CERT Sysdream / CERT-SYS-EDM-2022-02 / 
            * normshield_all_ddosbot.ipset
 
-Indicators of Compromise (IOC)
+Indicators of Compromise (IOC) Integrated in files to this repository
 ------------------------------
 
   * [SOC Radar IOCs](https://socradar.io/what-you-need-to-know-about-russian-cyber-escalation-in-ukraine/)
