@@ -9,7 +9,7 @@ Traffic analysis
           * id_country_ua.netset
      
   * IP adress Tor Network for block from/to organisation (FireHol) Updated every 12 hours on this repository
-        * See repository CERT Sysdream / CERT-SYS-EDM-2022-02
+       * See repository CERT Sysdream / CERT-SYS-EDM-2022-02
            * tor_exits_1d.ipset
            * tor_exits_30d.ipset
            * tor_exits_7d.ipset
@@ -33,8 +33,17 @@ Malware
   * [Cyclops Blink](https://www.watchguard.com/wgrd-news/blog/important-detection-and-remediation-actions-cyclops-blink-state-sponsored-botnet)
   * [Symantec Wiper Malware](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia)
 
-CERT/CSIRT
-----------
+Other
+-----
+
+  * [Github curated list](https://github.com/curated-intel/Ukraine-Cyber-Operations)
+  * [CISA Adivsory](https://www.cisa.gov/uscert/ncas/current-activity/2022/01/11/cisa-fbi-and-nsa-release-cybersecurity-advisory-russian-cyber)
+  * [SANS Resource Center](https://www.sans.org/blog/ukraine-russia-conflict-cyber-resource-center/)
+  * [Mandiant Ukraine Crisis](https://www.mandiant.com/resources/ukraine-crisis-cyber-threats)
+  * [Palo Alto Unit42](https://unit42.paloaltonetworks.com/preparing-for-cyber-impact-russia-ukraine-crisis/)
+  * [Cisco Talos Intel](https://blog.talosintelligence.com/2022/02/current-executive-guidance-for-ongoing.html)
+  * [Microsoft Intel](https://www.microsoft.com/security/blog/2022/01/15/destructive-malware-targeting-ukrainian-organizations/)
+
 
 
 
