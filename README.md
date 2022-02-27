@@ -4,8 +4,12 @@ Traffic analysis
 ----------------
 
   * Netblock Russia / Ukraine for traffic analysis (FireHol) Updated every 12 hours on this repository
+       * See repository CERT Sysdream / CERT-SYS-EDM-2022-02 / id_country_ru.netset
   * IP adress Tor Network for block from/to organisation (FireHol) Updated every 12 hours on this repository
+        * See repository CERT Sysdream / CERT-SYS-EDM-2022-02 / 
   * DDoS Bot for blocking or detect (FireHol) Updated every 12 hours on this repository
+       * See repository CERT Sysdream / CERT-SYS-EDM-2022-02 / 
+
 
 Indicators of Compromise (IOC)
 ------------------------------
